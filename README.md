@@ -6,4 +6,4 @@ Site para auxiliar devs no desenvolvimento web com vários projetos para serem t
  
 Card Preview Product: https://thaysonscript.github.io/FrontEnd_Mentor/Card/Project/index.html
 <br>
-Qr Code: https://thaysonscript.github.io/FrontEnd_Mentor/Qr_code/project/index.html
+Qr Code: https://thaysonscript.github.io/FrontEnd_Mentor/Qr_code/Project/index.html
