@@ -161,32 +161,28 @@ header > section.header_content > section.comprar > p.adicionar_carrinho {
 
 /* RESPONSIVE */
 @media screen and (max-width: 375px) {
-    body {
-        background-color: blue;
-    }
-
     header {
         display: inline;
     
-        margin-top: 70px;
+        margin-top: 10px;
     
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 200px;
+        margin-right: 200px;
     
-        max-width: 375;
-        max-height: 375;
+        max-width: 325px;
+        max-height: 325px;
     }
     
     /* IMG */
 
     header > section.imagem_perfume {
-        height: 300px;
+        height: 375px;
     }
 
 
     header > section.imagem_perfume > img {
-        width: 600px;
-        max-height: 300px;
+        width: 375px;
+        max-height: 375px;
     
         border-radius: 10px 10px 0px 0px;
     }
@@ -195,7 +191,7 @@ header > section.header_content > section.comprar > p.adicionar_carrinho {
         border-radius: 0px 0px 10px 10px;
         background-color: var(--color_neutral03);
     
-        max-width: 400px;
+        max-width: 375px;
         max-height: 700px;
 
         padding-bottom: 10px;
@@ -276,6 +272,7 @@ header > section.header_content > section.comprar > p.adicionar_carrinho {
     
         margin-top: 20px;
         margin-left: 40px;
+        margin-right: 40px;
     
         max-height: 70px;
         max-width: 300px;
