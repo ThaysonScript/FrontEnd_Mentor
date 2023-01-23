@@ -1,3 +1,7 @@
 # FrontEnd_Mentor
+
+Site para auxiliar devs no desenvolvimento web com vários projetos para serem treinados.
+
+## Lista de Sites Criados
  
-https://thaysonscript.github.io/FrontEnd_Mentor/Card/Project/index.html
+Card Preview Product: https://thaysonscript.github.io/FrontEnd_Mentor/Card/Project/index.html
