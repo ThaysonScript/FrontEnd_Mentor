@@ -41,8 +41,6 @@ section.section_content {
     background-color: var(--cor_neutro02);
 
     border-radius: 20px;
-
-    border: 1px solid red;
 }
 
 section.section_content > img {
