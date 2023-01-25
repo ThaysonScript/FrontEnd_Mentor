@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+/* 
+    - Mobile: 375px
+    - Desktop: 1440px
+*/
+
+* {
+    box-sizing: border-box;
+    font-family: var(--font);
+}
+
+:root {
+    --color_primary01: hsl(225, 100%, 94%);
+    --color_primary02: hsl(245, 75%, 52%);
+
+    --color_neutral01: hsl(225, 100%, 98%);
+    --color_neutral02: hsl(224, 23%, 55%);
+    --color_neutral03: hsl(223, 47%, 23%);
+
+    --font: 'Red Hat Display', sans-serif;
+}
