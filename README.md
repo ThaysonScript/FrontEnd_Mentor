@@ -13,3 +13,5 @@ NFT Card: https://thaysonscript.github.io/FrontEnd_Mentor/NFT%20Card/Project/ind
 Order Summary: https://thaysonscript.github.io/FrontEnd_Mentor/Order%20Summary/Project/index.html
 <br>
 Cards States: https://thaysonscript.github.io/FrontEnd_Mentor/Card%20States/Project/index.html
+<br>
+Cards Column: https://thaysonscript.github.io/FrontEnd_Mentor/Cards%20Column/Project/index.html
