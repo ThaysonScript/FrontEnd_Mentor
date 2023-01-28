@@ -17,3 +17,5 @@ Cards States: https://thaysonscript.github.io/FrontEnd_Mentor/Card%20States/Proj
 Cards Column: https://thaysonscript.github.io/FrontEnd_Mentor/Cards%20Column/Project/index.html
 <br>
 Card Profile: https://thaysonscript.github.io/FrontEnd_Mentor/Card%20Profile/Project/index.html
+<br>
+Grid Testimonials: https://thaysonscript.github.io/FrontEnd_Mentor/Grid%20Testimonials/Project/index.html
