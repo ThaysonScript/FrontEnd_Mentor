@@ -15,3 +15,5 @@ Order Summary: https://thaysonscript.github.io/FrontEnd_Mentor/Order%20Summary/P
 Cards States: https://thaysonscript.github.io/FrontEnd_Mentor/Card%20States/Project/index.html
 <br>
 Cards Column: https://thaysonscript.github.io/FrontEnd_Mentor/Cards%20Column/Project/index.html
+<br>
+Card Profile: https://thaysonscript.github.io/FrontEnd_Mentor/Card%20Profile/Project/index.html
