@@ -31,3 +31,14 @@
         2. Review paragraphs inside the quotations have the same color as well, but are at 70% opacity
     */
 }
+
+main {
+    background-color: blue;
+}
+
+section {
+    display: grid;
+    gap: 100px;
+
+    border: 1px solid red;
+}
