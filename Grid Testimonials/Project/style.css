@@ -40,8 +40,6 @@
 
     max-width: 100%;
     height: 100vh;
-
-    border: 5px solid red;
 }
 
 #flex_container > #grid_content {
@@ -52,8 +50,6 @@
 
     width: 90%;
     height: 95%;
-
-    border: 1px solid red;
 }
 
 
@@ -86,15 +82,13 @@
     background-position-x: 80%;
     background-size: 125px;
 
-    border: 1px solid red;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.312);
 }
 
 #flex_container > #grid_content > .grid01 > .rodape {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-
-    border: 1px solid red;
 }
 
 #flex_container > #grid_content > .grid01 > .rodape > img {
@@ -108,8 +102,6 @@
 
 #flex_container > #grid_content > .grid01 > .rodape > .info {
     margin-left: 15px;
-
-    border: 1px solid red;
 }
 
 #flex_container > #grid_content > .grid01 > .rodape > .info > h1 {
@@ -133,8 +125,6 @@
     font-size: 17px;
     line-height: 22px;
     color: var(--neutral01);
-
-    border: 1px solid red;
 }
 
 
@@ -159,15 +149,13 @@
 
     width: 350px;
 
-    border: 1px solid red;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.312);
 }
 
 #flex_container > #grid_content > .grid02 > .rodape {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-
-    border: 1px solid red;
 }
 
 #flex_container > #grid_content > .grid02 > .rodape > img {
@@ -181,8 +169,6 @@
 
 #flex_container > #grid_content > .grid02 > .rodape > .info {
     margin-left: 15px;
-
-    border: 1px solid red;
 }
 
 #flex_container > #grid_content > .grid02 > .rodape > .info > h1 {
@@ -205,8 +191,6 @@
     font-size: 15px;
     line-height: 25px;
     color: var(--neutral01);
-
-    border: 1px solid red;
 }
 
 
@@ -237,15 +221,13 @@
 
     background-color: var(--color04);
 
-    border: 1px solid red;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.312);
 }
 
 #flex_container > #grid_content > .grid03 > .rodape {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-
-    border: 1px solid red;
 }
 
 #flex_container > #grid_content > .grid03 > .rodape > img {
@@ -259,8 +241,6 @@
 
 #flex_container > #grid_content > .grid03 > .rodape > .info {
     margin-left: 15px;
-
-    border: 1px solid red;
 }
 
 #flex_container > #grid_content > .grid03 > .rodape > .info > h1 {
@@ -283,8 +263,6 @@
     font-size: 17px;
     line-height: 22px;
     color: var(--color02);
-
-    border: 1px solid red;
 }
 
 
@@ -310,15 +288,13 @@
 
     width: 350px;
 
-    border: 1px solid red;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.312);
 }
 
 #flex_container > #grid_content > .grid04 > .rodape {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-
-    border: 1px solid red;
 }
 
 #flex_container > #grid_content > .grid04 > .rodape > img {
@@ -332,8 +308,6 @@
 
 #flex_container > #grid_content > .grid04 > .rodape > .info {
     margin-left: 15px;
-
-    border: 1px solid red;
 }
 
 #flex_container > #grid_content > .grid04 > .rodape > .info > h1 {
@@ -350,8 +324,6 @@
     margin-top: 20px;
 
     width: 200px;
-
-    border: 1px solid red;
 }
 
 #flex_container > #grid_content > .grid04 > p {
@@ -360,8 +332,6 @@
     width: 250px;
     line-height: 25px;
     color: var(--color02);
-
-    border: 1px solid red;
 }
 
 
@@ -392,15 +362,13 @@
 
     background-color: var(--color03);
 
-    border: 1px solid red;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.312);
 }
 
 #flex_container > #grid_content > .grid05 > .rodape {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-
-    border: 1px solid red;
 }
 
 #flex_container > #grid_content > .grid05 > .rodape > img {
@@ -414,8 +382,6 @@
 
 #flex_container > #grid_content > .grid05 > .rodape > .info {
     margin-left: 15px;
-
-    border: 1px solid red;
 }
 
 #flex_container > #grid_content > .grid05 > .rodape > .info > h1 {
@@ -442,6 +408,4 @@
     font-size: 15px;
     line-height: 25px;
     color: var(--neutral01);
-
-    border: 1px solid red;
 }
